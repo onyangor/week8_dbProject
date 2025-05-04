@@ -60,3 +60,6 @@ week8_dbProject/
 ├── requirements.txt       # Python dependencies
 ├── library_schema.sql     # SQL file to create and seed the database
 └── README.md              # This file
+
+![ERD](./my_ER.png)
+
